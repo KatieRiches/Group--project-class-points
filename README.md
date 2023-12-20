@@ -1,35 +1,22 @@
-# Boilerplate: Fullstack with Sass
+# Dev Academy Points
 
-## Setup
+## Overview
 
-### What's included
+The **Dev Academy Points System** is a collaborative project designed to streamline the process of allocating points to students based on their contributions, achievements, and overall performance. This system provides a centralized platform for teachers to recognize and reward their students. This was a group prouject completed in 24 hours. My main contributions to this were the backend databases and linking this to the front end.
 
-This repo includes:
+**Please go to the katie branch to see complete app** 
 
-* a single, simple API endpoint (`/api/v1/fruits`)
-* a single React component (`<App />`)
-* an example database module (`server/db/fruits.js`)
-* an API client module (`client/apis/fruits.js`)
-* configuration for Vitest and testing library
-* configuration for server-side debugging in VS Code
-* configuration for preprocessing Sass
+![image](https://github.com/KatieRiches/Group--project-class-points/assets/103969925/1c82f49d-c971-4ba3-b94c-4aa43d254eae)
 
-### Installation
+## Features
 
-#### **From the Github UI**
+- **User-friendly Interface:** An intuitive interface that allows teachers to easily navigate and allocate points to their colleagues.
 
-See the instructions [here](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template) to use Github's feature to create a new repo from a template.
+- **Points Categories:** Define and customize points categories such as teamwork, innovation, leadership, and more to reflect the diverse contributions of teachers.
 
-#### **From the command line**
+- **Points Allocation Form:** A form that enables teachers to submit points for their colleagues, providing a transparent and efficient way to recognize achievements.
 
-```
-git clone https://github.com/dev-academy-challenges/boilerplate-fullstack-query [your-project-name]
-cd [your-project-name]
-npm install # to install dependencies
-npm run dev # to start the dev server
-```
+- **Leaderboard:** Track and display the top contributors on a leaderboard, promoting healthy competition and acknowledging outstanding performance.
 
-You can find the server running on [http://localhost:3000](http://localhost:3000) and the client running on [http://localhost:5173](http://localhost:5173).
+- **History and Analytics:** View a history of points allocations and access analytics to gain insights into trends and patterns over time.
 
----
-[Provide feedback on this repo](https://docs.google.com/forms/d/e/1FAIpQLSfw4FGdWkLwMLlUaNQ8FtP2CTJdGDUv6Xoxrh19zIrJSkvT4Q/viewform?usp=pp_url&entry.1958421517=boilerplate-fullstack-query)
